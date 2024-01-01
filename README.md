@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hello+%F0%9F%91%8B%2C+I'm+Durgesh+Rao;Ranked+Under+Top+1%25+Kagglers+%E2%9C%A8;Passionate+%F0%9F%A4%96+Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I+am+Stuti+Bansal;Passionate+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <!--
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/bansalstuti)
