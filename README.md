@@ -56,7 +56,7 @@
 ![Durgesh's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=Stuti-Bansal&show_icons=true&theme=merko)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Bansal&theme=merko" alt="DURGESH716" /> </p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Bansal&theme=merko" alt="Stuti" /> </p> 
 
 <!-- 
  [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stuti-Bansal&theme=merko)](https://github.com/Stuti-Bansal/github-readme-activity-graph) -->
