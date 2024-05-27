@@ -18,8 +18,6 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion)  -->
 
-<!-- <p align="right"> <img src="https://novacene.ai/wp-content/uploads/2020/10/records-classification-automation-930x602.png" alt="durgesh716" style="width:250px;height:250px;/> </p>
- -->
 
 
 
