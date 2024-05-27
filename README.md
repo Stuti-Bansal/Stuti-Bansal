@@ -9,19 +9,7 @@
 
 
 
-<!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Stuti-Bansal&theme=onestar&row=1&column=8)
-
-<!-- ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/durgeshrao9993/discussion)  -->
-
-
-
-
-- 📫 How to reach me *bansalstuti16@gmail.com*
 - ⚡ Know about my interests *Open-Source, Artificial Intelligence, Machine-Learning, Research and Problem Solving*
 
 
