@@ -7,19 +7,7 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/discussion) -->
 
-<!-- <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/discussion/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/notebook/" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/dataset/" />
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/competition/" />  -->
-</p>
 
-<p align="center"><a href="https://www.kaggle.com/bansalstuti"><img height="30" src="https://img.shields.io/badge/Kaggle-Click-%230e75b6"></a> 
-<!--  <a href="https://durgesh716.github.io/Portfolio-Website/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6"></a> -->
- <img height="30" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/bansalstuti" />
- <a href="https://www.linkedin.com/in/stuti-bansal-0436a6201/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6"></a>
- <img  height="30" src="https://komarev.com/ghpvc/?username=Stuti-Bansal&label=Profile%20views&color=0e75b6&logo=appveyor" alt="Stuti-Bansal" /> 
- </p>-->
 
 <!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
