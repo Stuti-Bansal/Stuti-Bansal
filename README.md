@@ -7,7 +7,7 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/discussion) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/discussion/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/notebook/" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/dataset/" />
@@ -19,7 +19,7 @@
  <img height="30" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/bansalstuti" />
  <a href="https://www.linkedin.com/in/stuti-bansal-0436a6201/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6"></a>
  <img  height="30" src="https://komarev.com/ghpvc/?username=Stuti-Bansal&label=Profile%20views&color=0e75b6&logo=appveyor" alt="Stuti-Bansal" /> 
- </p>
+ </p>-->
 
 <!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
 
