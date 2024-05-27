@@ -8,11 +8,6 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bansalstuti/discussion) -->
 
 
-<!-- <p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "300px" height="300px"> </p> -->
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Stuti-Bansal&theme=onestar&row=1&column=8)
-
-
 
 - 📫 How to reach me *bansalstuti16@gmail.com*
 
